@@ -1,0 +1,17 @@
+{
+    "git.autofetch": true,
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "PyCharm Night Theme",
+    "editor.fontSize": 16,
+    "files.autoSave": "afterDelay",
+    "workbench.startupEditor": "none",
+    "python.analysis.typeCheckingMode": "standard",
+    "indentRainbow.indicatorStyle": "light",
+    "workbench.settings.applyToAllProfiles": [
+        "files.autoSave"
+    ]
+}
