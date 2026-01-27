@@ -1,0 +1,15 @@
+christian-kohler.path-intellisense
+eamodio.gitlens
+esbenp.prettier-vscode
+gigacode.gigacode-vscode
+k--kato.intellij-idea-keybindings
+kevinrose.vsc-python-indent
+ms-python.autopep8
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-pylance
+ms-python.vscode-python-envs
+nicohlr.pycharm
+oderwat.indent-rainbow
+pkief.material-icon-theme
+zhuangtongfa.material-theme
