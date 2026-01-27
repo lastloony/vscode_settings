@@ -61,8 +61,6 @@ Get-Content extensions.txt | ForEach-Object { code --install-extension $_ }
 Или использовать готовый скрипт:
 
 ```powershell
-# Если нужна политика выполнения
-Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 
 # Запустить скрипт синхронизации
 .\sync-extensions.ps1
